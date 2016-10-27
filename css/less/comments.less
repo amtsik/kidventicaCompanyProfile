@@ -1,0 +1,170 @@
+.main__company__comments {
+  margin-top: 75px;
+  margin-right: 55px;
+
+  &__title {
+    padding-bottom: 14px;
+    margin-bottom: 36px;
+  }
+
+  &__sort {
+    position: absolute;
+    right: 0;
+    top: 40%;
+    height: 36px;
+    margin-top: -18px;
+    color: #686868;
+
+    &__time {
+
+      button {
+        border-radius: 50px 0 0 50px!important;
+        padding: 9px 15px 9px 19px;
+        margin-right: -4px;
+        cursor: pointer;
+      }
+    }
+
+    &__rating {
+
+      button {
+        border-radius: 0 50px 50px 0!important;
+        padding: 9px 19px 9px 15px;
+        margin-right: -4px;
+        cursor: pointer;
+      }
+    }
+  }
+
+  &__whrite {
+    position: relative;
+    &__form {
+      position: relative;
+      > * {
+        display: block;
+        float: left;
+      }
+
+      &__img {
+        display: block;
+        float: left;
+        width: 56px;
+        height: 56px;
+        border-radius: 100%;
+        overflow: hidden;
+        background-color: #ffffff;
+        margin-right: 20px;
+
+        > * {
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      &__textarea {
+        width: 71%;
+        margin-right: 20px;
+
+        > * {
+          width: 100%;
+          border-radius: 28px!important;
+          color: #bdbdbd;
+          font-family: "Open Sans";
+          font-size: 14px;
+          font-weight: 300;
+          line-height: 56px;
+          padding: 0 27px;
+          margin-right: 20px;
+        }
+      }
+
+      &__smile {
+        position: absolute;
+        right: 266px;
+        top: 16px;
+        width: 20px;
+        height: 23px;
+
+        * {
+          cursor: pointer;
+        }
+
+      &:hover {
+        [data-title]{
+          &:after {
+            content: attr(data-title);
+            position: absolute;
+            top: -20px;
+            right: -50px;
+            width: 110px;
+            height: 35px;
+            color: #bdbdbd;
+            font-family: "Open Sans";
+            font-size: 12px;
+            font-weight: 300;
+          }
+        }
+      }
+
+
+      }
+
+      &__file {
+        position: absolute;
+        right: 222px;
+        top: 16px;
+        width: 27px;
+        height: 23px;
+
+        * {
+          cursor: pointer;
+        }
+
+        &:hover {
+          [data-title]{
+            &:after {
+              content: attr(data-title);
+              position: absolute;
+              top: -20px;
+              right: -26px;
+              width: 110px;
+              height: 35px;
+              color: #bdbdbd;
+              font-family: "Open Sans";
+              font-size: 12px;
+              font-weight: 300;
+            }
+          }
+        }
+
+        svg {
+          width: 27px;
+          height: 22px;
+
+          path {
+            fill: #e4e4e4;
+          }
+        }
+
+        &__name {
+          position: absolute;
+          bottom: -21px;
+          right: 0;
+          width: 200px;
+          color: #bdbdbd;
+          font-family: "Open Sans";
+          font-size: 12px;
+          font-weight: 300;
+          text-align: right;
+        }
+      }
+
+      &__submit {
+
+        .btn {
+          padding: 0 21px;
+        }
+      }
+    }
+  }
+}
