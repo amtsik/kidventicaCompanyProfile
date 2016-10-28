@@ -174,9 +174,11 @@
   &__comments {
 
     &__items{
-      padding-left: 84px;
       margin-top: 18px;
       padding-top: 16px;
+      padding-bottom: 44px;
+      padding-left: 84px;
+
 
       &__img {
         position: absolute;
@@ -227,6 +229,7 @@
       }
 
       &__name {
+        padding-bottom: 16px;
         color: #263238;
         font-family: "Open Sans";
         font-size: 14px;
@@ -273,11 +276,13 @@
       }
 
       &__comment {
+        width: 540px;
+        padding-bottom: 10px;
         color: #686868;
         font-family: "Open Sans";
         font-size: 14px;
         font-weight: 300;
-        line-height: 48px;
+        line-height: 18px;
       }
 
       &__data {
@@ -289,7 +294,12 @@
       }
 
       &__answer {
-        margin-top: 12px;
+        //margin-top: 12px;
+        opacity: 0;
+        pointer-events: none;
+        position: absolute;
+        bottom: 16px;
+        transition: .7s;
 
         svg {
           width: 9px;
@@ -300,7 +310,173 @@
             fill: #a1aeb5;
           }
         }
+
+        &__btn {
+          background-color: transparent;
+          border: none;
+          color: #a1aeb5;
+          font-family: "Open Sans";
+          font-size: 12px;
+          font-weight: 300;
+          line-height: 16px;
+          padding-bottom: 0px;
+          cursor: pointer;
+          border-bottom: 1px dotted transparent;
+
+
+          &:first-letter{
+            text-transform: uppercase;
+          }
+          &:hover {
+            border-bottom: 1px dotted #a1aeb5;
+          }
+        }
+      }
+
+      &__rating {
+        position: absolute;
+        right: 0;
+        top: ~"calc(50% - 28px)";
+        //width: 75px;
+        //height: 14px;
+
+        svg {
+          width: 11px;
+          height: 14px;
+        }
+
+        &__up,
+        &__down {
+          cursor: pointer;
+          opacity: 0;
+          pointer-events: none;
+          transition: .7s;
+        }
+
+
+        &__num {
+          margin: 0 20px;
+            font-family: Roboto;
+            font-size: 12px;
+            font-weight: 900;
+            line-height: 48px;
+
+          &.positive {
+            color: #6eac31;
+          }
+          &.negative {
+            color: #e17272;
+          }
+        }
+      }
+
+      &__ans {
+        position: absolute;
+        top: -12px;
+        left: 63px;
+
+
+        svg {
+          width: 9px;
+          height: 9px;
+
+          path {
+            fill: #cecece;
+
+          }
+        }
+
+        &__svg {
+          margin-right: 8px;
+
+        }
+
+        &__name {
+            color: #a8a8a8;
+            font-family: "Open Sans";
+            font-size: 12px;
+            font-weight: 400;
+        }
+
+      }
+
+      &:hover {
+        .main__company__com__comments__items__answer,
+        .main__company__com__comments__items__rating__up,
+        .main__company__com__comments__items__rating__down {
+          opacity: 1;
+          pointer-events: auto;
+        }
+      }
+
+      &.answer {
+        margin-left: 77px;
+
+        .main__company__com__comments__items__answer,
+        .main__company__com__comments__items__rating {
+          display: none;
+        }
       }
     }
+
+    &__pagination {
+      margin: 40px auto 60px auto;
+      text-align: center;
+
+      &__link {
+        text-transform: none;
+        text-decoration: none;
+          color: #b8c2cc;
+          font-family: "Open Sans";
+          font-size: 14px;
+          font-style: italic;
+      }
+
+      span:first-child {
+        margin-right: 7px;
+      }
+
+      span:not(:first-child) {
+        &:before{
+          content: '';
+          width: 7px;
+          height: 7px;
+          position: absolute;
+          top: 32%;
+          right: 0;
+          background-color: #d0d7de;
+          border-radius: 100%;
+        }
+      }
+
+      span {
+        position: relative;
+        + span {
+          margin-left: 15px;
+        }
+      }
+
+      &:before {
+        content: '';
+        width: ~"calc(100% - 84px)";
+        height: 1px;
+        position: absolute;
+        top: -40px;
+        right: 0;
+        border-top: 1px solid #e1e4e8;
+      }
+
+
+    }
   }
+}
+
+.main__company__com__comments__items + .main__company__com__comments__items:not(.answer):before {
+  content: '';
+  width: ~"calc(100% - 84px)";
+  height: 1px;
+  position: absolute;
+  top: -18px;
+  right: 0;
+  border-top: 1px solid #e1e4e8;
 }
