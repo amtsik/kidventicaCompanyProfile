@@ -1,11 +1,20 @@
 .main__company{
   @lost gutter 20px;
   lost-column: ~"1/4";
-  border: 1px solid #f3f3f3;
-  background-color: #ffffff;
-  border-radius: 5px;
-  padding-top: 27px;
+  min-width: 234px;
   //margin-right: 10px;
+
+  @media (max-width: 768px) {
+    lost-column: ~"1";
+  }
+
+  &__mod {
+    border: 1px solid #f3f3f3;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding-top: 27px;
+    margin-bottom: 20px;
+  }
 
   &__top {
     text-align: center;
@@ -180,6 +189,119 @@
             stroke: #339bdd;
           }
         }
+      }
+    }
+  }
+
+  &__subscribers{
+    border: 1px solid #f3f3f3;
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    padding-bottom: 20px;
+
+    &:before{
+      content: '';
+      width: 55px;
+      height: 53px;
+      background: url(../../img/bac-1.png) no-repeat;
+      background-size: cover;
+      position: absolute;
+      top: 3px;
+      right: 0;
+    }
+
+    &__photo {
+      padding-top: 22px;
+      padding-bottom: 20px;
+      padding-left: 3px;
+      height: 66px;
+      overflow: hidden;
+
+
+      &:before {
+        content: '';
+        width: 34px;
+        height: 46px;
+        position: absolute;
+        top: 21px;
+        right: 0px;
+        z-index: 3;
+        background: linear-gradient(to right, transparent, #fff);
+      }
+
+      &__item {
+        float: left;
+        margin-left: 15px;
+        width: 42px;
+        height: 42px;
+        overflow: hidden;
+        border-radius: 100%;
+        margin-bottom: 5px;
+
+        &:before {
+          content: '';
+          width: 40px;
+          height: 40px;
+          border: 1px dashed #8f9ea6;
+          border-radius: 100%;
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
+        
+        &:after {
+          content: '';
+          width: 13px;
+          height: 13px;
+          background: url("../../img/bacg-1.svg") no-repeat;
+          background-size: cover;
+          position: absolute;
+          top: 15px;
+          left: 15px;
+        }
+
+        &__img {
+          width: 57px;
+          max-width: 57px;
+          height: auto;
+          position: absolute;
+          top: -7px;
+          left: -7px;
+          z-index: 2;
+        }
+
+      }
+
+    }
+
+    &__lin {
+      color: #8f9ea6;
+      font-family: "Open Sans Light";
+      font-size: 14px;
+      font-style: italic;
+      line-height: 14px;
+      text-align: center;
+
+      &:before{
+        content: '';
+        width: 26px;
+        height: 35px;
+        background: url(../../img/bac-2.png) no-repeat;
+        background-size: cover;
+        position: absolute;
+        top: -8px;
+        left: 0px;
+      }
+      &:after {
+        content: '';
+        width: 25px;
+        height: 20px;
+        background: url(../../img/bac-3.png) no-repeat;
+        background-size: cover;
+        position: absolute;
+        bottom: -20px;
+        right: 0;
       }
     }
   }
