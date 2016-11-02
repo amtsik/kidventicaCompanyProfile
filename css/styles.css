@@ -3117,6 +3117,8 @@ main {
   height: auto;
   max-height: 326px;
 }
+@media (max-width: 1200px) {
+}
 .about__company__slaider .gallery-top img {
   width: 100%;
   height: auto;
