@@ -3141,7 +3141,7 @@ main {
 }
 @media (max-width: 480px) {
   .side__unit__top__posts__items {
-    lost-column: 1;
+    lost-column: 1.0;
   }
 }
 .side__unit__top__posts__items__name {
@@ -3267,6 +3267,11 @@ main {
 @media (max-width: 1100px) {
   .side__unit__qa__items {
     lost-column: 1/2.1;
+  }
+}
+@media (max-width: 480px) {
+  .side__unit__qa__items {
+    lost-column: 1;
   }
 }
 .side__unit__qa__items__ans {
