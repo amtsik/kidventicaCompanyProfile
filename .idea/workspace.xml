@@ -5,102 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="792d3c70-e781-47f1-be3f-31446678b5b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/babu-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/babu-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/corona.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/untitled3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/play.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/spaceship_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/spaceship_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/spaceship_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/spaceship_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/spaceship_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/bacg-1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big_а01.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big_а02.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big_а03.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big_а04.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/calendar_big_фон другой.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/clock1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/filter_bot.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/filter_top.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/home.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/link.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/location.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/logo_01.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/logo_02.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/logo_горизонтальное.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/message.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/photo-group.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/pin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/question.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/Профиль компании.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/Профиль-компании.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/вверх.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/вниз.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/волны.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/волны2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/выход.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/длиная стрелка вправо.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/добавить компанию.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_01.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_02.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_03.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_04.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_05.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_06.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_07.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_08.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_П_09.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/иконка_тарелка.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/культура.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/культура_фон другой.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/магазины.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/медицына.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/образование.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/развлечение.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/ресторан и кафе.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/спорт.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории большие/творчество.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Детские магазины.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Культура.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Медицина.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Образование.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Развлечение.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Рестораны и кафе.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Спорт.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/категории мини/Творчество.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/корона.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/ответить.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/Блог.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/ВопросОтвет.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/Профиль.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/Услуги.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/змей.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/календарь.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/отзывы.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/профиль/события.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/рейтинг.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/стрелка.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/стрелка2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/стрелка_маленькая.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/svg/хрестик.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/about_company.less" afterPath="$PROJECT_DIR$/css/less/about_company.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/css/less/breadcrumbs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/main_company.less" afterPath="$PROJECT_DIR$/css/less/main_company.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/side_unit.less" afterPath="$PROJECT_DIR$/css/less/side_unit.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/styles.css" afterPath="$PROJECT_DIR$/css/less/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
     </list>
     <ignored path="CompanyProfile.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -502,16 +407,16 @@
       <workItem from="1477939671259" duration="7650000" />
       <workItem from="1478073760951" duration="11586000" />
       <workItem from="1478107777555" duration="595000" />
-      <workItem from="1478108454138" duration="9647000" />
+      <workItem from="1478108454138" duration="9788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163071000" />
+    <option name="totallyTimeSpent" value="163212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26492536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -522,7 +427,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33188722" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33188722" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
