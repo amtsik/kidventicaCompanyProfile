@@ -6,7 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="792d3c70-e781-47f1-be3f-31446678b5b7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/about_company.less" afterPath="$PROJECT_DIR$/css/less/about_company.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/css/less/breadcrumbs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/comments.less" afterPath="$PROJECT_DIR$/css/less/comments.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/side_unit.less" afterPath="$PROJECT_DIR$/css/less/side_unit.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/styles.css" afterPath="$PROJECT_DIR$/css/less/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/styles.less" afterPath="$PROJECT_DIR$/css/less/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
     </list>
     <ignored path="CompanyProfile.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="1061" column="1752" selection-start-line="1061" selection-start-column="1752" selection-end-line="1061" selection-end-column="1752" />
+            <state relative-caret-position="262">
+              <caret line="1202" column="145" selection-start-line="1202" selection-start-column="145" selection-end-line="1202" selection-end-column="159" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -56,10 +64,13 @@
                 <element signature="n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#6;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#span#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,17 +85,9 @@
                 <element signature="n#style#0;n#div#9;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#10;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#11;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -103,6 +106,35 @@
                 <element signature="n#svg#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1478200748937" expanded="false" signature="161887:170914" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="162056:164233" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="162537:164193" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="162840:164149" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="164310:166487" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="166564:168741" ph="..." />
+                <marker date="1478200748937" expanded="false" signature="168818:170878" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/less/comments.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="200" column="28" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="side_unit.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/less/side_unit.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+              <folding>
+                <element signature="e#2097#3268#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -112,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/../message.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1696" />
+              <caret line="0" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1052" />
               <folding />
             </state>
           </provider>
@@ -141,8 +173,8 @@
       <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="510">
+              <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -151,11 +183,9 @@
       <file leaf-file-name="about_company.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/less/about_company.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="e#870#3406#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="714">
+              <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,18 +193,18 @@
       <file leaf-file-name="breadcrumbs.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/less/breadcrumbs.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="237">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3995">
-              <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -206,15 +236,16 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/less/company_name.less" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/css/less/styles.less" />
-        <option value="$PROJECT_DIR$/css/less/side_unit.less" />
-        <option value="$PROJECT_DIR$/css/less/comments.less" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/css/less/main_company.less" />
+        <option value="$PROJECT_DIR$/../message.svg" />
+        <option value="$PROJECT_DIR$/css/less/side_unit.less" />
         <option value="$PROJECT_DIR$/css/less/about_company.less" />
+        <option value="$PROJECT_DIR$/css/less/styles.less" />
         <option value="$PROJECT_DIR$/css/less/breadcrumbs.less" />
+        <option value="$PROJECT_DIR$/css/less/comments.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/main.js" />
       </list>
     </option>
   </component>
@@ -276,6 +307,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CompanyProfile" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompanyProfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompanyProfile" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompanyProfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CompanyProfile" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,12 +417,12 @@
       <workItem from="1478073760951" duration="11586000" />
       <workItem from="1478107777555" duration="595000" />
       <workItem from="1478108454138" duration="11207000" />
-      <workItem from="1478155443495" duration="824000" />
+      <workItem from="1478155443495" duration="9364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165455000" />
+    <option name="totallyTimeSpent" value="173995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -370,20 +433,20 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40933767" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33188722" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Assets" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13586956" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -496,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/side_unit.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="198" column="7" selection-start-line="198" selection-start-column="7" selection-end-line="198" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -515,6 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-262">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -522,6 +579,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="2761" column="1" selection-start-line="2761" selection-start-column="1" selection-end-line="2761" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -531,51 +589,10 @@
     <entry file="file://$PROJECT_DIR$/img/svg/профиль/Услуги.svg" />
     <entry file="file://$PROJECT_DIR$/img/svg/профиль/календарь.svg" />
     <entry file="file://$PROJECT_DIR$/img/svg/профиль/отзывы.svg" />
-    <entry file="file://$PROJECT_DIR$/css/less/comments.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="443" column="20" selection-start-line="443" selection-start-column="12" selection-end-line="443" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3995">
-          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/less/main_company.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/about_company.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#870#3406#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/breadcrumbs.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -591,15 +608,57 @@
     <entry file="file://$PROJECT_DIR$/../message.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1696" />
+          <caret line="0" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="1052" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/side_unit.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+          <folding>
+            <element signature="e#2097#3268#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/about_company.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/breadcrumbs.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/comments.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="200" column="28" selection-start-line="200" selection-start-column="28" selection-end-line="200" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="1061" column="1752" selection-start-line="1061" selection-start-column="1752" selection-end-line="1061" selection-end-column="1752" />
+        <state relative-caret-position="262">
+          <caret line="1202" column="145" selection-start-line="1202" selection-start-column="145" selection-end-line="1202" selection-end-column="159" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -623,10 +682,13 @@
             <element signature="n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#6;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#span#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -641,17 +703,9 @@
             <element signature="n#style#0;n#div#9;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#10;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#11;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -670,7 +724,22 @@
             <element signature="n#svg#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#a#0;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1478200748937" expanded="false" signature="161887:170914" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="162056:164233" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="162537:164193" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="162840:164149" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="164310:166487" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="166564:168741" ph="..." />
+            <marker date="1478200748937" expanded="false" signature="168818:170878" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="257" column="0" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

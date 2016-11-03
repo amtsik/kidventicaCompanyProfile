@@ -115,6 +115,9 @@
         * {
           cursor: pointer;
         }
+        img {
+          vertical-align: sub;
+        }
 
         svg {
           width: 27px;
@@ -129,7 +132,7 @@
         &:hover {
         [data-title]{
           &:after {
-            content: attr(data-title);
+            //content: attr(data-title);
             position: absolute;
             top: -25px;
             right: -50px;
@@ -162,7 +165,7 @@
         &:hover {
           [data-title]{
             &:after {
-              content: attr(data-title);
+              //content: attr(data-title);
               position: absolute;
               top: -25px;
               right: -26px;
@@ -187,10 +190,10 @@
 
         &__name {
           position: absolute;
-          bottom: -25px;
+          bottom: -50px;
           right: 0;
           width: 200px;
-          color: #bdbdbd;
+          color: #263238;
           font-family: "Open Sans";
           font-size: 12px;
           font-weight: 300;

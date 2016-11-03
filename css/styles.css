@@ -2561,8 +2561,7 @@ main {
   -webkit-transform: scale(1);
 }
 .btn__mod1:hover {
-  font-size: 14px;
-  padding: 0 39px;
+  color: #263238;
 }
 .btn__mod2 {
   cursor: pointer;
@@ -2584,11 +2583,11 @@ main {
   color: #686868;
   text-decoration: none;
 }
-.breadcrumbs__item_1 {
+.breadcrumbs__item:first-child {
   margin-left: 27px;
   position: relative;
 }
-.breadcrumbs__item_1:before {
+.breadcrumbs__item:first-child:before {
   content: '';
   position: absolute;
   left: -29px;
@@ -2598,14 +2597,14 @@ main {
   height: 17px;
   border-radius: 100%;
 }
-.breadcrumbs__item_1 svg {
+.breadcrumbs__item:first-child svg {
   position: absolute;
   left: -27px;
   bottom: calc(50% - 6px);
   width: 13px;
   height: 12px;
 }
-.breadcrumbs__item_1 svg path {
+.breadcrumbs__item:first-child svg path {
   stroke: #a9b0b7;
 }
 .breadcrumbs__item {
@@ -3098,9 +3097,9 @@ main {
 }
 .about__company__services__item__rating__message svg {
   vertical-align: text-top;
-}
-.about__company__services__item__rating__message svg * {
-  stroke: #b0b0b0;
+  padding: 1px;
+  width: 17px;
+  height: 17px;
 }
 .about__company__services__item__rating__rating svg {
   vertical-align: text-top;
@@ -3433,9 +3432,9 @@ main {
 }
 .side__unit__top__posts__items__dc__comments svg {
   vertical-align: text-top;
-}
-.side__unit__top__posts__items__dc__comments svg * {
-  stroke: #b0b0b0;
+  width: 16px;
+  height: 17px;
+  padding: 1px;
 }
 .side__unit__slaider {
   margin-bottom: 35px;
@@ -3692,6 +3691,9 @@ main {
 .main__company__com__whrite__form__smile * {
   cursor: pointer;
 }
+.main__company__com__whrite__form__smile img {
+  vertical-align: sub;
+}
 .main__company__com__whrite__form__smile svg {
   width: 27px;
   height: 22px;
@@ -3700,7 +3702,6 @@ main {
   fill: #e4e4e4;
 }
 .main__company__com__whrite__form__smile:hover [data-title]:after {
-  content: attr(data-title);
   position: absolute;
   top: -25px;
   right: -50px;
@@ -3724,7 +3725,6 @@ main {
   cursor: pointer;
 }
 .main__company__com__whrite__form__file:hover [data-title]:after {
-  content: attr(data-title);
   position: absolute;
   top: -25px;
   right: -26px;
@@ -3744,10 +3744,10 @@ main {
 }
 .main__company__com__whrite__form__file__name {
   position: absolute;
-  bottom: -25px;
+  bottom: -50px;
   right: 0;
   width: 200px;
-  color: #bdbdbd;
+  color: #263238;
   font-family: "Open Sans";
   font-size: 12px;
   font-weight: 300;
