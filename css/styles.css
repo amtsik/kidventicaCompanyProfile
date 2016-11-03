@@ -290,7 +290,7 @@ header #logo {
   height: 77px;
   font-family: 'BloggerSans';
   text-transform: uppercase;
-  fill: #fff;
+    fill: #263238;
 }
 header #logo2 {
   display: none;
@@ -327,7 +327,7 @@ header .add {
   text-transform: uppercase;
   letter-spacing: .1em;
   font-size: 12px;
-  border: 1px solid #fff;
+  border: 1px solid #263238;
   padding: 10px 70px 10px 26px;
   border-radius: 25px;
   margin: 3px 33px 0 0;
@@ -392,7 +392,7 @@ header .add .drop__add a:hover .svg__add .path {
 header .add span {
   transition: .3s;
   -webkit-transition: .3s;
-  color: #fff;
+  color: #263238;
 }
 header .add .svg {
   position: absolute;
@@ -460,7 +460,7 @@ header .header__nav {
   -webkit-transition: .4s;
 }
 header .header__nav .item {
-  color: #fff;
+  color: #263238;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;
@@ -2488,9 +2488,6 @@ header {
 main {
   margin-top: 110px;
 }
-.page {
-  overflow: hidden;
-}
 .page__mod1 {
   width: 1000px;
   float: left;
@@ -2880,6 +2877,7 @@ main {
   right: 0px;
   z-index: 3;
   background: linear-gradient(to right, transparent, #fff);
+  z-index: 15;
 }
 .main__company__subscribers__photo__item {
   float: left;
@@ -2889,6 +2887,7 @@ main {
   overflow: hidden;
   border-radius: 100%;
   margin-bottom: 5px;
+  z-index: 10;
 }
 .main__company__subscribers__photo__item:before {
   content: '';
@@ -3182,6 +3181,11 @@ main {
   top: 90px;
   left: -26px;
   transition: all 0.5s;
+}
+@media (max-width: 768px) {
+  .about__company__slaider .gallery-top video.pause + span:before {
+    top: 65px;
+  }
 }
 .about__company__slaider .gallery-top video.pause + span:after {
   content: '';
@@ -3789,6 +3793,7 @@ main {
   height: 57px;
   border-radius: 100%;
   overflow: hidden;
+  z-index: 5;
 }
 @media (max-width: 480px) {
   .main__company__com__comments__items__img__img {
@@ -3819,6 +3824,7 @@ main {
   right: 0;
   background-color: #339bdd;
   border-radius: 100%;
+  z-index: 10;
 }
 .main__company__com__comments__items__img__logo * {
   position: absolute;

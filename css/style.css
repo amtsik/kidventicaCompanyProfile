@@ -290,7 +290,7 @@ header #logo {
   height: 77px;
   font-family: 'BloggerSans';
   text-transform: uppercase;
-  fill: #fff;
+    fill: #263238;
 }
 header #logo2 {
   display: none;
@@ -327,7 +327,7 @@ header .add {
   text-transform: uppercase;
   letter-spacing: .1em;
   font-size: 12px;
-  border: 1px solid #fff;
+  border: 1px solid #263238;
   padding: 10px 70px 10px 26px;
   border-radius: 25px;
   margin: 3px 33px 0 0;
@@ -392,7 +392,7 @@ header .add .drop__add a:hover .svg__add .path {
 header .add span {
   transition: .3s;
   -webkit-transition: .3s;
-  color: #fff;
+  color: #263238;
 }
 header .add .svg {
   position: absolute;
@@ -460,7 +460,7 @@ header .header__nav {
   -webkit-transition: .4s;
 }
 header .header__nav .item {
-  color: #fff;
+  color: #263238;
   font-weight: 700;
   text-decoration: none;
   text-transform: uppercase;

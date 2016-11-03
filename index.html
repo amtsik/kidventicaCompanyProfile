@@ -1006,7 +1006,7 @@
 
 
                                             <div class="main__company__subscribers__photo__item po__r" v-for="value in subscribers">
-                                                <img class="main__company__subscribers__photo__item__img"  src="{{ value.src }}" alt="{{ value.alt }}">
+                                                <img class="main__company__subscribers__photo__item__img" v-bind:src=value.src v-bind:alt=value.alt >
                                             </div>
                                         </div>
                                         <div class="main__company__subscribers__lin po__r">
@@ -1099,14 +1099,14 @@
                                                 <div class="swiper-slide">
                                                     <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
-                                                <div class="swiper-slide">
+                                                <div class="swiper-slide" >
                                                     <video class="pause" preload="metadata" poster="img/slaider/preload_slide_1.jpg">
                                                         <source src="img/slaider/slaid_1.mp4" type="video/mp4">
                                                     </video>
                                                     <span play="пауза" pause="Смотреть видео"></span>
                                                 </div>
                                                 <div class="swiper-slide">
-                                                    <img src="img/slaider/slaid_4.jpg" alt="">
+                                                    <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
                                                 <div class="swiper-slide" >
                                                     <video class="pause" preload="metadata" poster="img/slaider/preload_slide_1.jpg">
@@ -1117,32 +1117,32 @@
                                                 <div class="swiper-slide">
                                                     <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
-                                                <div class="swiper-slide">
+                                                <div class="swiper-slide" >
                                                     <video class="pause" preload="metadata" poster="img/slaider/preload_slide_1.jpg">
                                                         <source src="img/slaider/slaid_1.mp4" type="video/mp4">
                                                     </video>
                                                     <span play="пауза" pause="Смотреть видео"></span>
                                                 </div>
                                                 <div class="swiper-slide">
-                                                    <img src="img/slaider/slaid_4.jpg" alt="">
+                                                    <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
-                                                <div class="swiper-slide">
+                                                <div class="swiper-slide" >
                                                     <video class="pause" preload="metadata" poster="img/slaider/preload_slide_1.jpg">
                                                         <source src="img/slaider/slaid_1.mp4" type="video/mp4">
                                                     </video>
                                                     <span play="пауза" pause="Смотреть видео"></span>
                                                 </div>
                                                 <div class="swiper-slide">
-                                                    <img src="img/slaider/slaid_4.jpg" alt="">
+                                                    <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
-                                                <div class="swiper-slide">
+                                                <div class="swiper-slide" >
                                                     <video class="pause" preload="metadata" poster="img/slaider/preload_slide_1.jpg">
                                                         <source src="img/slaider/slaid_1.mp4" type="video/mp4">
                                                     </video>
                                                     <span play="пауза" pause="Смотреть видео"></span>
                                                 </div>
                                                 <div class="swiper-slide">
-                                                    <img src="img/slaider/slaid_4.jpg" alt="">
+                                                    <img src="img/slaider/slaid_2.jpg" alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -1237,17 +1237,17 @@
 
                                             <div class="main__company__com__comments__items__img">
                                                 <div class="main__company__com__comments__items__img__img  po__r">
-                                                    <img src="{{ value.img }}" alt="">
+                                                    <img v-bind:src=value.img alt="img">
                                                 </div>
                                                 <div class="main__company__com__comments__items__img__logo" v-if="value.logo.length">
-                                                    <img src="{{ value.logo }}" alt="">
+                                                    <img v-bind:src=value.logo alt='logo'>
                                                 </div>
                                             </div>
                                             <div class="main__company__com__comments__items__name">
                                                 {{ value.name }}
                                                 <span class="main__company__com__comments__items__name__pic po__r" v-if="value.nLogo.length">
                                                     <span v-for="n in value.nLogo.length">
-                                                        <img src=" {{ value.nLogo[n] }} " alt="">
+                                                        <img v-bind:src=value.nLogo[n] alt="logo">
                                                     </span>
                                                 </span>
                                             </div>
@@ -1277,7 +1277,7 @@
                                                 <span class="main__company__com__comments__items__rating__down">
                                                     <svg id="SvgjsSvg1011" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 12 14">
                                                         <path id="SvgjsPath1013" d="M1136.05 1803.73L1140.75 1799.13C1141.08 1798.8000000000002 1141.08 1798.2600000000002 1140.75 1797.93C1140.41 1797.6000000000001 1139.86 1797.6000000000001 1139.52 1797.93L1136.31 1801.0700000000002L1136.31 1790.8500000000001C1136.31 1790.38 1135.9199999999998 1790.0000000000002 1135.44 1790.0000000000002C1134.96 1790.0000000000002 1134.5700000000002 1790.3800000000003 1134.5700000000002 1790.8500000000001L1134.5700000000002 1801.0700000000002L1131.3600000000001 1797.93C1131.0200000000002 1797.6000000000001 1130.47 1797.6000000000001 1130.13 1797.93C1129.96 1798.1000000000001 1129.88 1798.3100000000002 1129.88 1798.53C1129.88 1798.75 1129.96 1798.97 1130.13 1799.1299999999999L1134.8300000000002 1803.7299999999998C1135.16 1804.0599999999997 1135.7100000000003 1804.0599999999997 1136.0500000000002 1803.7299999999998Z " fill="#d4d4d4" fill-opacity="1" transform="matrix(1,0,0,1,-1129,-1790)"></path>
-                                                    </svg>st
+                                                    </svg>
                                                 </span>
                                             </div>
                                             <div class="main__company__com__comments__items__ans" v-if="value.answer">
