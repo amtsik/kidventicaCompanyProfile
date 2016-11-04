@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="792d3c70-e781-47f1-be3f-31446678b5b7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/style.css" afterPath="$PROJECT_DIR$/css/less/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/less/styles.less" afterPath="$PROJECT_DIR$/css/less/styles.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
     </list>
     <ignored path="CompanyProfile.iws" />
@@ -157,7 +153,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/less/styles.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -167,11 +163,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="336" column="5" selection-start-line="336" selection-start-column="5" selection-end-line="336" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="229" column="30" selection-start-line="229" selection-start-column="30" selection-end-line="229" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -231,8 +227,8 @@
         <option value="$PROJECT_DIR$/css/less/about_company.less" />
         <option value="$PROJECT_DIR$/css/less/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/css/less/styles.less" />
+        <option value="$PROJECT_DIR$/lib/main.js" />
       </list>
     </option>
   </component>
@@ -418,12 +414,12 @@
       <workItem from="1478073760951" duration="11586000" />
       <workItem from="1478107777555" duration="595000" />
       <workItem from="1478108454138" duration="11207000" />
-      <workItem from="1478155443495" duration="19504000" />
+      <workItem from="1478155443495" duration="20634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184135000" />
+    <option name="totallyTimeSpent" value="185265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -722,14 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="336" column="5" selection-start-line="336" selection-start-column="5" selection-end-line="336" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/less/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -742,6 +730,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="229" column="30" selection-start-line="229" selection-start-column="30" selection-end-line="229" selection-end-column="30" />
           <folding />
         </state>
       </provider>
