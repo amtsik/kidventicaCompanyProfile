@@ -90,6 +90,26 @@
         }
       }
 
+      &__num {
+        position: absolute;
+        top: 4px;
+        right: -18px;
+        color: #6d7f8a;
+        font-family: "Open Sans Light";
+        font-size: 14px;
+        font-style: italic;
+        line-height: 14px;
+        opacity: 0;
+        transition: .3s;
+        pointer-events: none;
+      }
+
+      &:hover {
+        .main__company__top__rating__num {
+          opacity: 1;
+        }
+      }
+
     }
     &__name {
       margin-bottom: 22px;

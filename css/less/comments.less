@@ -1,6 +1,6 @@
 .main__company__com {
-  margin-top: 75px;
-  margin-right: 55px;
+  //margin-top: 75px;
+  //margin-right: 55px;
 
   @media (max-width: 768px) {
     margin-right: 0;
@@ -20,18 +20,27 @@
     margin-top: -18px;
     color: #686868;
 
-    @media (max-width: 480px) {
+    @media (max-width: 560px) {
       top: inherit;
       bottom: -15px;
     }
 
-    &__time {
+    button {
+      @media (max-width: 360px) {
+        font-size: 12px;
+      }
+    }
 
+    &__time {
       button {
         border-radius: 50px 0 0 50px!important;
         padding: 9px 15px 9px 19px;
         margin-right: -4px;
         cursor: pointer;
+
+        @media (max-width: 560px) {
+          padding: 5px 5px 5px 15px;
+        }
       }
     }
 
@@ -42,6 +51,11 @@
         padding: 9px 19px 9px 15px;
         margin-right: -4px;
         cursor: pointer;
+
+        @media (max-width: 560px) {
+          padding: 5px 15px 5px 5px;
+
+        }
       }
     }
   }
@@ -78,23 +92,24 @@
       }
 
       &__textarea {
-        width: ~"calc(100% - 76px - 194px)";
+        width: ~"calc(100% - 194px)";
         margin-right: 20px;
 
-        @media (max-width: 768px) {
-          width: ~"calc(100% - 100px)";
+        @media (max-width: 900px) {
+          width: ~"calc(100%)";
         }
 
-        > * {
+        #comments__whrite__text {
           width: 100%;
           border-radius: 28px!important;
-          color: #bdbdbd;
+          color: #9ca7b2;
           font-family: "Open Sans";
           font-size: 14px;
           font-weight: 300;
           line-height: 56px;
           padding: 0 27px;
           margin-right: 20px;
+          background-color: #f4f6f8;
 
           @media (max-width: 768px) {
             padding: 0 90px 0 27px;
@@ -107,7 +122,7 @@
         padding: 0;
         position: absolute;
         right: 65px;
-        top: 4px;
+        top: 16px;
         width: 20px;
         height: 23px;
 
@@ -154,7 +169,7 @@
         padding: 0;
         position: absolute;
         right: 21px;
-        top: 4px;
+        top: 16px;
         width: 27px;
         height: 23px;
 
@@ -190,7 +205,7 @@
 
         &__name {
           position: absolute;
-          bottom: -50px;
+          bottom: -40px;
           right: 0;
           width: 200px;
           color: #263238;
@@ -205,7 +220,7 @@
       &__submit {
         margin-top: 5px;
 
-        @media (max-width: 768px) {
+        @media (max-width: 900px) {
           float:none;
           clear: both;
           margin-top: 80px;
@@ -339,7 +354,7 @@
       }
 
       &__comment {
-        width: 540px;
+        width: 427px;
         padding-bottom: 10px;
         color: #686868;
         font-family: "Open Sans";
@@ -348,8 +363,9 @@
         line-height: 18px;
         margin-right: 55px;
 
-        @media (max-width: 768px) {
+        @media (max-width: 1200px) {
           width: 100%;
+          margin-right: 55px;
         }
       }
 
@@ -412,7 +428,7 @@
         right: 0;
         top: ~"calc(50% - 28px)";
 
-        @media (max-width: 480px) {
+        @media (max-width: 1250px) {
           top: inherit;
           bottom: 0;
         }
@@ -442,6 +458,10 @@
             font-size: 12px;
             font-weight: 900;
             line-height: 48px;
+
+          @media (max-width: 480px){
+            margin: 0 10px;
+          }
 
           &.positive {
             color: #6eac31;
@@ -493,7 +513,7 @@
 
       &.answer {
         margin-left: 77px;
-        @media (max-width: 768px) {
+        @media (max-width: 1100px) {
           margin-left: 15px;
         }
 
@@ -517,14 +537,23 @@
 }
 
 .main__pagination {
-  margin: 40px auto 60px auto;
+  margin: 10px auto 30px auto;
   text-align: center;
   color: #b8c2cc;
   font-family: "Open Sans";
   font-size: 14px;
   font-style: italic;
-  line-height: 4px;
+  line-height: 14px;
 
+  &:before {
+    //content: '';
+    width: ~"calc(100% - 84px)";
+    height: 1px;
+    position: absolute;
+    top: -40px;
+    right: 0;
+    border-top: 1px solid #e1e4e8;
+  }
 
   &__link {
     text-transform: none;
@@ -559,13 +588,5 @@
     }
   }
 
-  &:before {
-    content: '';
-    width: ~"calc(100% - 84px)";
-    height: 1px;
-    position: absolute;
-    top: -40px;
-    right: 0;
-    border-top: 1px solid #e1e4e8;
-  }
+
 }
